@@ -35,10 +35,8 @@ Oh yes, we forgot to tell you, that for customer-level access you only need to m
 
 ### Environment
 
-- [ReactJS v17.0.2](https://reactjs.org/)
-- [NodeJS v14.15.4](https://nodejs.org/en/)
-- [ExpressJS v4.17.1](https://expressjs.com/)
-- [MongoDB v4.4.4](https://www.mongodb.com/)
+- [NextJS](https://nextjs.org/)
+- [Sanity.io](https://www.sanity.io/)
 
 ### Contributing
 
